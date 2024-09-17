@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  hello, i'm <a href="https://t.me/i3nrnnr" target="_blank">Birzhan</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">welcome to my page!</h3>
+<p align="center">i am a novice developer.</p>
+<h3 align="center">my stacks:</h3>
+<p align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</p>
+<p align="center"></p>
 
 <!--
 **i3nrnnr/i3nrnnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
